@@ -1,0 +1,4 @@
+Flask
+pygame
+pymunk
+requests
